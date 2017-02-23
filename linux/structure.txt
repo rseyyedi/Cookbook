@@ -1,0 +1,10 @@
+/etc
+    System configuration files (often pronounced slash-et-see)
+/var
+    Installed software
+/var/log
+    Log files
+/proc
+    Real-time system information—similar to Windows Management Instrumentation (WMI), but easier!
+/tmp
+    Temp files, cleared on reboot
