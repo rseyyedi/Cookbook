@@ -1,6 +1,7 @@
 /*
  * The following codes implement polled Master send and receive.
  * It is running on MicroBlaze connected to a AXI IIC IP.
+ * Borrowed from xiic_low_level_eeprom_example.c
  */
 
 typedef u8 AddressType;
