@@ -1,0 +1,11 @@
+#+TITLE: Basic input output
+
+
+To consume the whitespace or newline between the end of a token and the beginning of the next line in reading string:
+#+begin_src
+
+// eat whitespace
+getline(cin >> ws, s2);
+#+end_src
+
+where s2 is a string.
